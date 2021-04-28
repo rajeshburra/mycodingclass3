@@ -1,0 +1,2 @@
+This is my coding class 3
+This change is made to find the difference in the modified file and old file.
